@@ -20,7 +20,7 @@ To use this project, simply clone or download the repository.
 
 ## Demo
 
-## [**Click Here!**](https://meghavinasb.github.io/Web-Development-Amazon-Clone/)
-## [**Click Here!**](https://www.youtube.com/watch?v=a2GeBFmwinc)
+## Website: [**Click Here!**](https://meghavinasb.github.io/Web-Development-Amazon-Clone/)
+## YT: [**Click Here!**](https://www.youtube.com/watch?v=a2GeBFmwinc)
 
 Developed by Meghavina
