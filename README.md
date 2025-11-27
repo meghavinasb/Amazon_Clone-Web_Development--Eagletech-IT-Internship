@@ -20,7 +20,7 @@ To use this project, simply clone or download the repository.
 
 ## Demo
 
-## Website: [**Click Here!**](https://meghavinasb.github.io/Web-Development-Amazon-Clone/)
+## Website: [**Click Here!**](https://amazon-clone-web-development-eaglet.vercel.app/)
 ## YT: [**Click Here!**](https://www.youtube.com/watch?v=a2GeBFmwinc)
 
 Developed by Meghavina
